@@ -112,6 +112,7 @@ For employee counts, use **Count of Employee Number**, not Sum of Employee Numbe
 - `HR_DASHBOARD.xlsx` — Excel workbook containing the HR dashboard and analysis.
 - `LINK` — Screenshot preview of the dashboard.
 - `README.md` — Project documentation.
+<img width="1330" height="663" alt="DASHBOARD" src="https://github.com/user-attachments/assets/fce1bcb3-42b9-4335-b762-385834954791" />
 
 ## 💡 Skills Demonstrated
 
