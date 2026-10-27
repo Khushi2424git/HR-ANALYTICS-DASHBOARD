@@ -2,7 +2,8 @@
 
 ## Project Overview
 An Excel-based HR Analytics Dashboard designed to analyze employee data and visualize workforce trends, attrition, salary, age demographics, and business travel patterns.
-<img width="1330" height="663" alt="DASHBOARD" src="https://github.com/user-attachments/assets/4d0b648d-36b8-408e-b0b6-b4c9703390a7" />
+
+<img width="1331" height="661" alt="DASHBOARD2" src="https://github.com/user-attachments/assets/88b49d5b-d692-49d7-81c3-f3f2686429f4" />
 
 ## 🎯 Objectives
 - Analyze employee headcount and attrition.
