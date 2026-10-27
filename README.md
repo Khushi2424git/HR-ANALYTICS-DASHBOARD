@@ -2,6 +2,7 @@
 
 An interactive **HR Analytics Dashboard** built in Microsoft Excel to analyze employee attrition and workforce trends across departments.
 
+Dashboard Preview:
 
 ## 🎯 Objective
 To help HR teams understand **why employees leave**, which departments are affected, and how factors like income, age and business travel relate to attrition.
