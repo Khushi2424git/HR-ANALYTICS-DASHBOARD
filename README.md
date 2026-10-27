@@ -110,7 +110,7 @@ For employee counts, use **Count of Employee Number**, not Sum of Employee Numbe
 ## 📁 Project Files
 
 - `HR_DASHBOARD.xlsx` — Excel workbook containing the HR dashboard and analysis.
-- `DASHBOARD.png` — Screenshot preview of the dashboard.
+- `LINK` — Screenshot preview of the dashboard.
 - `README.md` — Project documentation.
 
 ## 💡 Skills Demonstrated
